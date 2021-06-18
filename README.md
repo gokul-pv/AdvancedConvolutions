@@ -1,2 +1,2 @@
 # EVA6_Assignmets_Session7
-EVA6 Assignmet for Session6
+EVA6 Assignmet for Session 7
