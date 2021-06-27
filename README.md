@@ -84,5 +84,3 @@ Misclassified images during validation for all the three models are shown below
     <em style="color: grey">Figure 7 : Misclassified images</em>
   </p> 
 
-
-
