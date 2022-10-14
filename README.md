@@ -1,5 +1,5 @@
 # ADVANCED CONCEPTS
-Advance Convolutions, Attention and Image Augmentation: Depth wise, Pixel Shuffle, Dilated, Transpose, Channel Attention, and Albumentations Library   
+> Advance Convolutions, Attention and Image Augmentation: Depth wise, Pixel Shuffle, Dilated, Transpose, Channel Attention, and Albumentations Library   
 
 The dataset used here is CIFAR-10. It has the classes: ‘airplane’, ‘automobile’, ‘bird’, ‘cat’, ‘deer’, ‘dog’, ‘frog’, ‘horse’, ‘ship’, ‘truck’. The images in CIFAR-10 are of size 3x32x32, i.e. 3-channel color images of 32x32 pixels in size. 
 
